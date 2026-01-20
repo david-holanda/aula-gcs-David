@@ -1,1 +1,1 @@
-Item de configuração
+Este repositório foi criado para praticar controle de versões.
